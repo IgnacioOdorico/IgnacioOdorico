@@ -20,6 +20,17 @@ Busco una oportunidad para iniciar mi carrera profesional en un equipo donde pue
 
 ---
 
+### 🌐 ¡Visitá mi Portfolio!
+<div align="center">
+  <a href="https://ignacioodorico.github.io/portafolio-ignacio-odorico/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_PORTFOLIO-4c9db0?style=for-the-badge&logo=google-chrome&logoColor=ffebaf" alt="Mi Portfolio" height="40" />
+  </a>
+  <br/>
+  <i>Explorá mis proyectos más recientes y mi trayectoria completa.</i>
+</div>
+
+---
+
 ### 🛠️ Mi Stack Tecnológico
 
 | Backend | Frontend | Herramientas |
