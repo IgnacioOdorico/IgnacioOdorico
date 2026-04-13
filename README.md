@@ -66,7 +66,7 @@ Busco una oportunidad para iniciar mi carrera profesional en un equipo donde pue
   <a href="https://github.com/IgnacioOdorico" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-4c9db0?style=for-the-badge&logo=github&logoColor=ffebaf" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ignacio-odorico-46328530b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4c9db0?style=for-the-badge&logo=linkedin&logoColor=ffebaf" alt="LinkedIn" />
   </a>
   <a href="mailto:cony20082008@gmail.com" target="_blank">
