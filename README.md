@@ -95,24 +95,10 @@ Hoy trabajo como **desarrollador freelance**: diseño apps de pedidos online a m
 
 ## 🛠️ Stack
 
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/backend-dark.svg"><img src="./assets/stack/backend-light.svg" height="44" alt="Python, FastAPI, Java, Spring Boot, Node.js, Express"/></picture></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/frontend-dark.svg"><img src="./assets/stack/frontend-light.svg" height="44" alt="React, TypeScript, JavaScript, Tailwind CSS, Vite, HTML, CSS"/></picture></td>
-  </tr>
-  <tr>
-    <td><b>Datos</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/data-dark.svg"><img src="./assets/stack/data-light.svg" height="44" alt="PostgreSQL, MySQL, SQLite, MongoDB"/></picture></td>
-  </tr>
-  <tr>
-    <td><b>DevOps y herramientas</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/devops-dark.svg"><img src="./assets/stack/devops-light.svg" height="44" alt="Docker, GitHub Actions, Git, GitHub, Postman, VS Code"/></picture></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/stack-dark.svg">
+  <img src="./assets/stack/stack-light.svg" width="100%" alt="Backend: Python, FastAPI, Java, Spring Boot, Node.js, Express. Frontend: React, TypeScript, JavaScript, Tailwind CSS, Vite, HTML, CSS. Datos: PostgreSQL, MySQL, SQLite, MongoDB. IA y automatización: n8n, OpenAI API, Claude Code, MCP. DevOps y herramientas: Docker, GitHub Actions, Git, GitHub, Postman, VS Code."/>
+</picture>
 
 ## 📊 Actividad
 
